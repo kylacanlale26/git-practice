@@ -1,1 +1,1 @@
-# git-practice
+# Hello, this is my first practice repository.
